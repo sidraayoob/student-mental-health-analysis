@@ -11,7 +11,7 @@ This project is an end-to-end machine learning application that predicts changes
 - [Installation](#installation)
 - [How to Run](#how-to-run)
 - [Project Structure](#project-structure)
-
+- [Demo Video](#demo-video)
 
 ## Overview
 
@@ -98,4 +98,9 @@ Install the required packages using the provided `requirements.txt` file.
 ├── requirements.txt
 └── README.md
 ```
+## Demo Video
+
+Watch our 2–3 minute project walkthrough here:  
+[👉 Click to Watch the Video](https://drive.google.com/file/d/13rJNzf9EzbIodyKexDEGojnov9X3LRDO/view?usp=sharing)  
+(We explain the dataset, show the GUI, and demonstrate predictions in real time.)
 
